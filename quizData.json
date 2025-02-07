@@ -1,0 +1,26 @@
+{
+    "title": "Genetics and Evolution",
+    "topic": "The Molecular Basis of Inheritance",
+    "questions": [
+      {
+        "id": 3342,
+        "description": "If the base sequence in DNA is 5' AAAT 3' then the base sequence in mRNA is :",
+        "options": [
+          { "id": 13379, "description": "5'UUUU3'", "is_correct": false },
+          { "id": 13380, "description": "3'UUUU5'", "is_correct": false },
+          { "id": 13381, "description": "5'AAAU3'", "is_correct": true },
+          { "id": 13382, "description": "3'AAAU5'", "is_correct": false }
+        ]
+      },
+      {
+        "id": 3315,
+        "description": "Avery, MacLeod and Mc Carty used the S(virulent) and R (avirulent) strains of streptococcus pneumoniae...",
+        "options": [
+          { "id": 13271, "description": "DNA was transforming agent", "is_correct": true },
+          { "id": 13272, "description": "RNA was transforming agent", "is_correct": false },
+          { "id": 13273, "description": "Protein was transforming agent", "is_correct": false },
+          { "id": 13274, "description": "All are correct", "is_correct": false }
+        ]
+      }
+    ]
+  }
